@@ -1,0 +1,7220 @@
+{
+    "source": "HSR-Scanner",
+    "build": "v1.0.0",
+    "version": 3,
+    "metadata": {
+        "uid": null,
+        "trailblazer": "Stelle"
+    },
+    "light_cones": [
+        {
+            "key": "On the Fall of an Aeon",
+            "level": 70,
+            "ascension": 5,
+            "superimposition": 5,
+            "location": "Clara",
+            "lock": true,
+            "_id": "light_cone_5"
+        },
+        {
+            "key": "The Seriousness of Breakfast",
+            "level": 60,
+            "ascension": 4,
+            "superimposition": 1,
+            "location": "Qingque",
+            "lock": true,
+            "_id": "light_cone_12"
+        },
+        {
+            "key": "Trend of the Universal Market",
+            "level": 80,
+            "ascension": 6,
+            "superimposition": 4,
+            "location": "Aventurine",
+            "lock": true,
+            "_id": "light_cone_4"
+        },
+        {
+            "key": "Flames Afar",
+            "level": 70,
+            "ascension": 5,
+            "superimposition": 5,
+            "location": "Blade",
+            "lock": true,
+            "_id": "light_cone_6"
+        },
+        {
+            "key": "Good Night and Sleep Well",
+            "level": 80,
+            "ascension": 6,
+            "superimposition": 4,
+            "location": "Kafka",
+            "lock": true,
+            "_id": "light_cone_3"
+        },
+        {
+            "key": "Resolution Shines As Pearls of Sweat",
+            "level": 60,
+            "ascension": 4,
+            "superimposition": 3,
+            "location": "Pela",
+            "lock": true,
+            "_id": "light_cone_13"
+        },
+        {
+            "key": "Along the Passing Shore",
+            "level": 80,
+            "ascension": 6,
+            "superimposition": 1,
+            "location": "Acheron",
+            "lock": true,
+            "_id": "light_cone_1"
+        },
+        {
+            "key": "Dance! Dance! Dance!",
+            "level": 70,
+            "ascension": 5,
+            "superimposition": 2,
+            "location": "Tingyun",
+            "lock": true,
+            "_id": "light_cone_7"
+        },
+        {
+            "key": "Post-Op Conversation",
+            "level": 60,
+            "ascension": 4,
+            "superimposition": 1,
+            "location": "Natasha",
+            "lock": true,
+            "_id": "light_cone_14"
+        },
+        {
+            "key": "Planetary Rendezvous",
+            "level": 60,
+            "ascension": 4,
+            "superimposition": 2,
+            "location": "",
+            "lock": true,
+            "_id": "light_cone_15"
+        },
+        {
+            "key": "Before the Tutorial Mission Starts",
+            "level": 70,
+            "ascension": 5,
+            "superimposition": 1,
+            "location": "Guinaifen",
+            "lock": true,
+            "_id": "light_cone_8"
+        },
+        {
+            "key": "Eyes of the Prey",
+            "level": 80,
+            "ascension": 6,
+            "superimposition": 2,
+            "location": "Black Swan",
+            "lock": true,
+            "_id": "light_cone_2"
+        },
+        {
+            "key": "Perfect Timing",
+            "level": 70,
+            "ascension": 5,
+            "superimposition": 3,
+            "location": "Luocha",
+            "lock": true,
+            "_id": "light_cone_9"
+        }
+    ],
+    "relics": [
+        {
+            "set": "Space Sealing Station",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 110
+                },
+                {
+                    "key": "ATK",
+                    "value": 74
+                },
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "Black Swan",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_12"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 16.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_84"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_157"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_229"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 110
+                },
+                {
+                    "key": "HP_",
+                    "value": 12.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Black Swan",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_13"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 42
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 19.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_85"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_158"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_230"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 42
+                },
+                {
+                    "key": "HP_",
+                    "value": 6.9
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.0
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "Black Swan",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_14"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 16.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_86"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_159"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_231"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                },
+                {
+                    "key": "SPD",
+                    "value": 5
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 16.4
+                }
+            ],
+            "location": "Black Swan",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_15"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 71
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.0
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_87"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_160"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_232"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 12.5
+                }
+            ],
+            "location": "Black Swan",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_16"
+        },
+        {
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 19.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 8.6
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_88"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_161"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_233"
+        },
+        {
+            "set": "Inert Salsotto",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 59
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Aventurine",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_17"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 12.0
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 12.0
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_89"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_162"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_234"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 11.6
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "Aventurine",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_18"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 35
+                },
+                {
+                    "key": "DEF",
+                    "value": 55
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.5
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_90"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_163"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_235"
+        },
+        {
+            "set": "Inert Salsotto",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 33
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 8.2
+                }
+            ],
+            "location": "Aventurine",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_19"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "Wind DMG Boost",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "ATK_",
+                    "value": 6.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 6.9
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_91"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_164"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_236"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "SPD",
+                    "value": 7
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 12.3
+                }
+            ],
+            "location": "Aventurine",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_20"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 80
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 8.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_92"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_165"
+        },
+        {
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_237"
+        },
+        {
+            "set": "Knight of Purity Palace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 13,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 10.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                }
+            ],
+            "location": "Aventurine",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_21"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 18.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 7.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_93"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_166"
+        },
+        {
+            "set": "Hunter of Glacial Forest",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_238"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "SPD",
+                    "value": 6
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 12.9
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "Aventurine",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_22"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 9,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 8.2
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_94"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_167"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_239"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "Gallagher",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_23"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 9,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 7.7
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_95"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_168"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_240"
+        },
+        {
+            "set": "Fleet of the Ageless",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "Gallagher",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_24"
+        },
+        {
+            "set": "Inert Salsotto",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 6,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_96"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_169"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Outgoing Healing Boost",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_241"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "Gallagher",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_25"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 6,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 84
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_97"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_170"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_242"
+        },
+        {
+            "set": "Passerby of Wandering Cloud",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 148
+                },
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "Gallagher",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_26"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 6,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_98"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_171"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_243"
+        },
+        {
+            "set": "Fleet of the Ageless",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 9,
+            "mainstat": "Quantum DMG Boost",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 11.6
+                }
+            ],
+            "location": "Gallagher",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_27"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 4,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_99"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_172"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_244"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Gallagher",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_28"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 4,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_100"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_173"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_245"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 6.9
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 8.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Guinaifen",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_29"
+        },
+        {
+            "set": "Firesmith of Lava-Forging",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 4,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_101"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_174"
+        },
+        {
+            "set": "Fleet of the Ageless",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Break Effect",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "HP_",
+                    "value": 16.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 12.0
+                }
+            ],
+            "location": "Guinaifen",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_30"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 6.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_102"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_175"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 15.5
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Guinaifen",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_31"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "Wind DMG Boost",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_103"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_176"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 74
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 10.3
+                }
+            ],
+            "location": "Guinaifen",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_32"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "Wind DMG Boost",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_104"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_177"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 110
+                },
+                {
+                    "key": "ATK",
+                    "value": 42
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 7.7
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "Guinaifen",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_33"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_105"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_178"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 11,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.8
+                }
+            ],
+            "location": "Yukong",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_34"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_106"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_179"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 9,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.1
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                }
+            ],
+            "location": "Yukong",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_35"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_107"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_180"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 9,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 84
+                },
+                {
+                    "key": "DEF",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 12.3
+                }
+            ],
+            "location": "Yukong",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_36"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_108"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_181"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 17.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "Blade",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_37"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_109"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_182"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 17.4
+                }
+            ],
+            "location": "Blade",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_38"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_110"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_183"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 11.6
+                }
+            ],
+            "location": "Blade",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_39"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_111"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_184"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Outgoing Healing Boost",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 8.2
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 11.6
+                }
+            ],
+            "location": "Luocha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_40"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_112"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_185"
+        },
+        {
+            "set": "Inert Salsotto",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.1
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 17.4
+                }
+            ],
+            "location": "Luocha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_41"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_113"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_186"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 12.3
+                }
+            ],
+            "location": "Luocha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_42"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_114"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_187"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 52
+                },
+                {
+                    "key": "DEF",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                }
+            ],
+            "location": "Luocha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_43"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_115"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_188"
+        },
+        {
+            "set": "Space Sealing Station",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 42
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 16.2
+                }
+            ],
+            "location": "Luocha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_44"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_116"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_189"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.0
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 7.3
+                }
+            ],
+            "location": "Luocha",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_45"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_117"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_190"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 6.9
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                }
+            ],
+            "location": "Tingyun",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_46"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_118"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_191"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 80
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 12.9
+                }
+            ],
+            "location": "Tingyun",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_47"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_119"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_192"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 6.9
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.6
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 16.8
+                }
+            ],
+            "location": "Tingyun",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_48"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_120"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_193"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 6
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                }
+            ],
+            "location": "Tingyun",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_49"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_121"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_194"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.6
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                }
+            ],
+            "location": "Tingyun",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_50"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 3,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_122"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_195"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 9.1
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 12.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "Tingyun",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_51"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_123"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_196"
+        },
+        {
+            "set": "Genius of Brilliant Stars",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 8.6
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 11.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "Qingque",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_52"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Ice DMG Boost",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_124"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Outgoing Healing Boost",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_197"
+        },
+        {
+            "set": "Genius of Brilliant Stars",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 59
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.0
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 6.9
+                }
+            ],
+            "location": "Qingque",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_53"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_125"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_198"
+        },
+        {
+            "set": "Genius of Brilliant Stars",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 14.9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "Qingque",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_54"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_126"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_199"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF",
+                    "value": 59
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 12.9
+                }
+            ],
+            "location": "Lynx",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_55"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Ice DMG Boost",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_127"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT DMG",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_200"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.8
+                }
+            ],
+            "location": "Lynx",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_56"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Imaginary DMG Boost",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_128"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_201"
+        },
+        {
+            "set": "Fleet of the Ageless",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "Lynx",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_57"
+        },
+        {
+            "set": "Sigonia, the Unclaimed Desolation",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_129"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_202"
+        },
+        {
+            "set": "Passerby of Wandering Cloud",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 11.6
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 10.3
+                }
+            ],
+            "location": "Lynx",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_58"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_130"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_203"
+        },
+        {
+            "set": "Fleet of the Ageless",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 80
+                },
+                {
+                    "key": "ATK",
+                    "value": 57
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "Lynx",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_59"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_131"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_204"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 12.3
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 16.8
+                }
+            ],
+            "location": "Clara",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_60"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_132"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_205"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 7.3
+                }
+            ],
+            "location": "Clara",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_61"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Quantum DMG Boost",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_133"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_206"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 6.9
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.1
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "Clara",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_62"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_134"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_207"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK_",
+                    "value": 7.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 18.7
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 16.8
+                }
+            ],
+            "location": "Clara",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_63"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_135"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_208"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 35
+                },
+                {
+                    "key": "HP_",
+                    "value": 7.7
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 6.1
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 12.3
+                }
+            ],
+            "location": "Clara",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_64"
+        },
+        {
+            "set": "Belobog of the Architects",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 9,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 76
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 10.3
+                }
+            ],
+            "location": "TrailblazerPreservation",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_1"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_136"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_209"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 11.6
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 7.3
+                }
+            ],
+            "location": "Clara",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_65"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 6.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 12.9
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 11.2
+                }
+            ],
+            "location": "Acheron",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_10"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_137"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_210"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Energy Regeneration Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 42
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 6.9
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 18.7
+                }
+            ],
+            "location": "Pela",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_66"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 55
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 16.2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 8.2
+                }
+            ],
+            "location": "Acheron",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_8"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_138"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_211"
+        },
+        {
+            "set": "Thief of Shooting Meteor",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Effect Hit Rate",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "SPD",
+                    "value": 6
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 15.1
+                }
+            ],
+            "location": "Pela",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_67"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_139"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_212"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "ATK_",
+                    "value": 11.2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                }
+            ],
+            "location": "Pela",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_68"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 7.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 12.9
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 11.6
+                }
+            ],
+            "location": "Acheron",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_5"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_140"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_213"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 148
+                },
+                {
+                    "key": "ATK",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Pela",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_69"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Wind DMG Boost",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_141"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_214"
+        },
+        {
+            "set": "Penacony, Land of the Dreams",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                },
+                {
+                    "key": "DEF_",
+                    "value": 10.2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 17.4
+                }
+            ],
+            "location": "Pela",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_70"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 59
+                },
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 6.1
+                }
+            ],
+            "location": "Acheron",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_6"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_142"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_215"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "HP_",
+                    "value": 12.5
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "Pela",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_71"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Imaginary DMG Boost",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_143"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_216"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Natasha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_72"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Quantum DMG Boost",
+            "substats": [
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_144"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_217"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Natasha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_73"
+        },
+        {
+            "set": "Talia: Kingdom of Banditry",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_145"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_218"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Natasha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_74"
+        },
+        {
+            "set": "Celestial Differentiator",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_146"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_219"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.9
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "Natasha",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_75"
+        },
+        {
+            "set": "Fleet of the Ageless",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_147"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_220"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.7
+                },
+                {
+                    "key": "SPD",
+                    "value": 9
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                }
+            ],
+            "location": "Kafka",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_76"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_148"
+        },
+        {
+            "set": "The Ashblazing Grand Duke",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 5.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 6.4
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 4.3
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_221"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 40
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.0
+                },
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 12.9
+                }
+            ],
+            "location": "Kafka",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_77"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 16
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_149"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_222"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "SPD",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 40
+                },
+                {
+                    "key": "DEF",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 10.8
+                }
+            ],
+            "location": "Kafka",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_78"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_150"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 42
+                },
+                {
+                    "key": "DEF",
+                    "value": 19
+                },
+                {
+                    "key": "SPD",
+                    "value": 2
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_223"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "Lightning DMG Boost",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                },
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 16.8
+                }
+            ],
+            "location": "Kafka",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_79"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 11.2
+                }
+            ],
+            "location": "Acheron",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_7"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "CRIT Rate",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_151"
+        },
+        {
+            "set": "Messenger Traversing Hackerspace",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 3.8
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_224"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_156"
+        },
+        {
+            "set": "Prisoner in Deep Confinement",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 52
+                },
+                {
+                    "key": "ATK_",
+                    "value": 12.5
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Kafka",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_80"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 6,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "HP_",
+                    "value": 4.3
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 2.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 10.3
+                }
+            ],
+            "location": "TrailblazerPreservation",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_3"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_152"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK",
+                    "value": 21
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_225"
+        },
+        {
+            "set": "Firmament Frontline: Glamoth",
+            "slot": "Link Rope",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "DEF",
+                    "value": 35
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "SPD",
+                    "value": 9
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "Kafka",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_81"
+        },
+        {
+            "set": "Guard of Wuthering Snow",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "TrailblazerPreservation",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_2"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Outgoing Healing Boost",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_153"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "CRIT Rate_",
+                    "value": 3.2
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_226"
+        },
+        {
+            "set": "Musketeer of Wild Wheat",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 12,
+            "mainstat": "DEF",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 105
+                },
+                {
+                    "key": "ATK",
+                    "value": 19
+                },
+                {
+                    "key": "ATK_",
+                    "value": 8.2
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "Welt",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_82"
+        },
+        {
+            "set": "Belobog of the Architects",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 6,
+            "mainstat": "Wind DMG Boost",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "DEF_",
+                    "value": 9.1
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.8
+                }
+            ],
+            "location": "TrailblazerPreservation",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_4"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Body",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "Outgoing Healing Boost",
+            "substats": [
+                {
+                    "key": "DEF_",
+                    "value": 4.8
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_154"
+        },
+        {
+            "set": "Longevous Disciple",
+            "slot": "Head",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "HP",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.4
+                },
+                {
+                    "key": "ATK_",
+                    "value": 3.4
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 3.8
+                }
+            ],
+            "location": "",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_227"
+        },
+        {
+            "set": "Izumo Gensei and Takama Divine Realm",
+            "slot": "Planar Sphere",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 33
+                },
+                {
+                    "key": "ATK",
+                    "value": 16
+                },
+                {
+                    "key": "DEF",
+                    "value": 76
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.0
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_83"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "SPD",
+                    "value": 4
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 6.4
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 11.6
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 7.7
+                }
+            ],
+            "location": "Acheron",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_9"
+        },
+        {
+            "set": "Watchmaker, Master of Dream Machinations",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP",
+                    "value": 38
+                },
+                {
+                    "key": "ATK_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 5.1
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": true,
+            "_id": "relic_155"
+        },
+        {
+            "set": "Wastelander of Banditry Desert",
+            "slot": "Feet",
+            "rarity": 5,
+            "level": 0,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "HP_",
+                    "value": 3.8
+                },
+                {
+                    "key": "Effect RES_",
+                    "value": 4.3
+                },
+                {
+                    "key": "Break Effect_",
+                    "value": 6.4
+                }
+            ],
+            "location": "",
+            "lock": false,
+            "discard": false,
+            "_id": "relic_228"
+        },
+        {
+            "set": "Pioneer Diver of Dead Waters",
+            "slot": "Hands",
+            "rarity": 5,
+            "level": 15,
+            "mainstat": "ATK",
+            "substats": [
+                {
+                    "key": "ATK_",
+                    "value": 7.7
+                },
+                {
+                    "key": "CRIT Rate_",
+                    "value": 5.5
+                },
+                {
+                    "key": "CRIT DMG_",
+                    "value": 5.1
+                },
+                {
+                    "key": "Effect Hit Rate_",
+                    "value": 12.9
+                }
+            ],
+            "location": "Black Swan",
+            "lock": true,
+            "discard": false,
+            "_id": "relic_11"
+        }
+    ],
+    "characters": [
+        {
+            "key": "Tingyun",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 6,
+            "skills": {
+                "basic": 1,
+                "skill": 8,
+                "ult": 9,
+                "talent": 3
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": false,
+                "stat_7": true,
+                "stat_8": false,
+                "stat_9": false,
+                "stat_10": false
+            }
+        },
+        {
+            "key": "Pela",
+            "level": 75,
+            "ascension": 6,
+            "eidolon": 6,
+            "skills": {
+                "basic": 1,
+                "skill": 2,
+                "ult": 10,
+                "talent": 9
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": false,
+                "stat_6": false,
+                "stat_7": false,
+                "stat_8": true,
+                "stat_9": false,
+                "stat_10": false
+            }
+        },
+        {
+            "key": "Guinaifen",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 6,
+            "skills": {
+                "basic": 1,
+                "skill": 6,
+                "ult": 3,
+                "talent": 9
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": false,
+                "stat_10": false
+            }
+        },
+        {
+            "key": "Black Swan",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 1,
+            "skills": {
+                "basic": 1,
+                "skill": 9,
+                "ult": 6,
+                "talent": 10
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": true,
+                "stat_10": true
+            }
+        },
+        {
+            "key": "Kafka",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 0,
+            "skills": {
+                "basic": 2,
+                "skill": 10,
+                "ult": 10,
+                "talent": 5
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": true,
+                "stat_10": true
+            }
+        },
+        {
+            "key": "Gallagher",
+            "level": 75,
+            "ascension": 6,
+            "eidolon": 5,
+            "skills": {
+                "basic": 1,
+                "skill": 4,
+                "ult": 2,
+                "talent": 1
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": false,
+                "stat_1": true,
+                "stat_2": false,
+                "stat_3": false,
+                "stat_4": false,
+                "stat_5": false,
+                "stat_6": false,
+                "stat_7": false,
+                "stat_8": false,
+                "stat_9": false,
+                "stat_10": false
+            }
+        },
+        {
+            "key": "Aventurine",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 0,
+            "skills": {
+                "basic": 3,
+                "skill": 10,
+                "ult": 10,
+                "talent": 10
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": true,
+                "stat_10": true
+            }
+        },
+        {
+            "key": "Blade",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 0,
+            "skills": {
+                "basic": 6,
+                "skill": 8,
+                "ult": 7,
+                "talent": 7
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": true,
+                "stat_10": true
+            }
+        },
+        {
+            "key": "Lynx",
+            "level": 75,
+            "ascension": 6,
+            "eidolon": 0,
+            "skills": {
+                "basic": 1,
+                "skill": 9,
+                "ult": 8,
+                "talent": 5
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": false,
+                "stat_10": false
+            }
+        },
+        {
+            "key": "Clara",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 0,
+            "skills": {
+                "basic": 1,
+                "skill": 6,
+                "ult": 9,
+                "talent": 8
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": true,
+                "stat_10": true
+            }
+        },
+        {
+            "key": "Luocha",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 0,
+            "skills": {
+                "basic": 1,
+                "skill": 7,
+                "ult": 4,
+                "talent": 9
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": false,
+                "stat_9": true,
+                "stat_10": true
+            }
+        },
+        {
+            "key": "Acheron",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 0,
+            "skills": {
+                "basic": 1,
+                "skill": 10,
+                "ult": 10,
+                "talent": 10
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": true,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": true,
+                "stat_7": true,
+                "stat_8": true,
+                "stat_9": false,
+                "stat_10": true
+            }
+        },
+        {
+            "key": "TrailblazerPreservation",
+            "level": 80,
+            "ascension": 6,
+            "eidolon": 5,
+            "skills": {
+                "basic": 1,
+                "skill": 5,
+                "ult": 4,
+                "talent": 7
+            },
+            "traces": {
+                "ability_1": true,
+                "ability_2": true,
+                "ability_3": false,
+                "stat_1": true,
+                "stat_2": true,
+                "stat_3": true,
+                "stat_4": true,
+                "stat_5": true,
+                "stat_6": false,
+                "stat_7": true,
+                "stat_8": false,
+                "stat_9": false,
+                "stat_10": false
+            }
+        }
+    ]
+}
